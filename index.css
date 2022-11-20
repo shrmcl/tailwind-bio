@@ -1,4 +1,5 @@
 body {
     min-height: 100vh;
-    background: radial-gradient(at center bottom, rgb(253, 230, 138), rgb(124, 58, 237), rgb(12, 74, 110));
+    background: url("https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80") center/cover no-repeat;
+    font-family: 'Trispace', sans-serif;
 }
